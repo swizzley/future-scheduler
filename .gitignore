@@ -1,0 +1,3 @@
+/server
+*.test
+.DS_Store
